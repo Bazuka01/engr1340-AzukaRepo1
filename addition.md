@@ -2,5 +2,5 @@
 
 Adding two integers gives you a sum.
 
-For example: 
+Example 1: 
 7 + 5 = 12
